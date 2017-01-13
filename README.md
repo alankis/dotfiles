@@ -13,6 +13,7 @@ It will be scripted soon, to make my life easier :)
   ```bash
   $ sudo apt install zsh
   ```
+  
 3. Make 'zsh' default shell
   ```bash chsh -s $(which zsh)
   ```
@@ -22,6 +23,7 @@ It will be scripted soon, to make my life easier :)
   ```bash
   $ echo $SHELL // /usr/bin/zhs
   ```
+  
 4. Install 'oh-my-zsh'
   ```bash
   sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
