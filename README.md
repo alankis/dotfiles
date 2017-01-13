@@ -31,7 +31,7 @@ It will be scripted soon, to make my life easier :)
   ```
 5. Install 'tmux' if you haven't allready
   ```bash
-  $ sudo apt install tmux'
+  $ sudo apt install tmux
   ```
 6. ** OPTIONAL **
 
