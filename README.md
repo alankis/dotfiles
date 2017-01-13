@@ -22,8 +22,13 @@ It will be scripted soon, to make my life easier :)
   ```bash
   $ echo $SHELL // /usr/bin/zhs
   ```
-4 Install 'oh-my-zsh'
+4. Install 'oh-my-zsh'
   ```bash
   sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
   ```
-  
+5. Install 'tmux' if you haven't allready
+  ```bash
+  $ sudo apt install tmux'
+  ```
+6. ** OPTIONAL **
+
