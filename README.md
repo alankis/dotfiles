@@ -5,6 +5,7 @@
 1. Install 'gnome-terminal'
   ```bash
   $ sudo apt install gnome-terminal
+  ```
   
 2. Install 'zsh' shell 
   ```bash
