@@ -1,6 +1,8 @@
 # dotfiles
 
-## Installation instruction, I will script that
+#### Installation instruction
+
+It will be scripted soon, to make my life easier :)
 
 1. Install 'gnome-terminal'
   ```bash
@@ -10,5 +12,18 @@
 2. Install 'zsh' shell 
   ```bash
   $ sudo apt install zsh
+  ```
+3. Make 'zsh' default shell
+  ```bahs chsh -s $(which zsh)
+  ```
+  Log-out && Log-in
   
-  3. 
+  Check if default shell is actually zsh
+  ```bash
+  $ echo $SHELL // /usr/bin/zhs
+  ```
+4 Install 'oh-my-zsh'
+  ```bash
+  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  ```
+  
