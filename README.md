@@ -15,7 +15,8 @@ It will be scripted soon, to make my life easier :)
   ```
   
 3. Make 'zsh' default shell
-  ```bash chsh -s $(which zsh)
+  ```bash 
+  chsh -s $(which zsh)
   ```
   Log-out && Log-in
   
