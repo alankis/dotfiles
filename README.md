@@ -14,7 +14,7 @@ It will be scripted soon, to make my life easier :)
   $ sudo apt install zsh
   ```
 3. Make 'zsh' default shell
-  ```bahs chsh -s $(which zsh)
+  ```bash chsh -s $(which zsh)
   ```
   Log-out && Log-in
   
